@@ -1,37 +1,13 @@
-@font-face {
-    font-family: "Gilroy-Regular";
-    src: url(/fonts/Gilroy-Regular.woff);
-}
-
-@font-face {
-    font-family: "Gilroy-Light";
-    src: url(/fonts/Gilroy-Light.woff);
-    
-}
-@font-face {
-    font-family: "Gilroy-Bold";
-    src: url(/fonts/Gilroy-Bold.woff);
-}
-@font-face {
-    font-family: "Gilroy-Heavy";
-    src: url(/fonts/Gilroy-Heavy.woff);
-}
-@font-face {
-    font-family: "Gilroy-Medium";
-    src: url(/fonts/Gilroy-Medium.woff);
-}
-
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     background-color: #fff;
     color: #1d2f38;
-    font-family: 'Gilroy-Bold', sans-serif;
+    font-family: 'Gilroy', sans-serif;
     overflow-x: hidden;
 }
 
@@ -95,7 +71,7 @@ header a:hover  {
 }
 .up-bigman div:nth-child(2) {
     font-size: 18px;
-    font-family: "Gilroy-Medium";
+    font-family: "Gilroy";
 
 }
 .up-bigman div:nth-child(3) {
@@ -123,11 +99,11 @@ header a:hover  {
     align-items: center;
     height: 506px;
     background-color: #F6F6F6;
-    font-family: "Gilroy-Regular";
+    font-family: "Gilroy";
     text-align: center;
 }
 .section2 h1 {
-    font-family: "Gilroy-Bold";
+    font-family: "Gilroy";
     font-size: 34px;
     margin-bottom: 45px;
 }
@@ -145,7 +121,7 @@ header a:hover  {
 .section3 .i-work {
     margin-top: 50px;
     margin-bottom: 80px;
-    font-family: "Gilroy-Regular";
+    font-family: "Gilroy";
 }
 .adobes {
     width: 940px;
@@ -157,7 +133,7 @@ header a:hover  {
 .adobe {
     margin-right: 90px;
     width: 166px;
-    font-family: 'Gilroy-Regular';
+    font-family: 'Gilroy';
     font-weight: bolder;
     color: #828282;
     font-size: 16px;
@@ -208,7 +184,7 @@ header a:hover  {
 }
 .section4 p {
     text-decoration: underline;
-    font-family: "Gilroy-Medium";
+    font-family: "Gilroy";
     font-size: 18px;
     margin-top: 40px;
     margin-bottom: 88px;
@@ -232,7 +208,7 @@ footer {
 }
 .footer p:nth-child(2) {
     font-size: 18px;
-    font-family: 'Gilroy-Medium';
+    font-family: 'Gilroy';
     margin-bottom: 30px;
 }
 .footer button {
@@ -257,7 +233,7 @@ footer {
 }
 .footer p:nth-child(5) {
     font-size: 15px;
-    font-family: 'Gilroy-Medium';
+    font-family: 'Gilroy';
     margin-top: 35px;
     color:#828282;
 }
